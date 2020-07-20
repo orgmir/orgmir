@@ -4,9 +4,9 @@
 
 ![I am a software developer building mobile apps!](https://images.unsplash.com/photo-1562973961-d3f3827ab939?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2100&q=80)
 
-I build iOS and Android apps for fun and profit. I also like to build tiny video games.
+<small><span>Photo by <a href="https://unsplash.com/@migelon?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Michael Busch</a> on <a href="https://unsplash.com/s/photos/samurai?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span></small>
 
-<span>Photo by <a href="https://unsplash.com/@migelon?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Michael Busch</a> on <a href="https://unsplash.com/s/photos/samurai?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+I build iOS and Android apps for fun and profit. I also like to build tiny video games.
 
 Skills: Kotlin / Swift / JS / HTML / CSS
 
